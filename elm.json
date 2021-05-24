@@ -1,6 +1,6 @@
 {
     "type": "package",
-    "name": "calions-app/env",
+    "name": "FabienHenon/env",
     "summary": "Parse envs",
     "license": "MIT",
     "version": "1.0.0",
